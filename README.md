@@ -18,4 +18,4 @@ If you want to know more about me, follow me on my social medias:
 
 [![Twitter Badge](https://img.shields.io/badge/-@marandrade-2ea44f?style=flat-square&labelColor=1e7035&logo=twitter&logoColor=white&link=https://twitter.com/marandrade)](https://twitter.com/marandrade) 
 [![Instagram Badge](https://img.shields.io/badge/-@marandrade-2ea44f?style=flat-square&labelColor=1e7035&logo=instagram&logoColor=white&link=https://www.instagram.com/marandrade)](https://www.instagram.com/marandrade) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marandradeoliveira/)](https://www.linkedin.com/in/marandradeoliveira/) 
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marandradeoliveira/)](https://www.linkedin.com/in/marandradeoliveira/) 
